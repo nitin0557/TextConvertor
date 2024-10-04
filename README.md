@@ -1,5 +1,6 @@
-<img width="1430" alt="Screenshot 2024-10-04 at 1 24 06 PM" src="https://github.com/user-attachments/assets/p1.jpg">
-<img width="1430" alt="Screenshot 2024-10-04 at 1 24 06 PM" src="https://github.com/user-attachments/assets/p2.jpg">
+![image](https://github.com/nitin0557/dashboard-frontend/blob/main/assets/p1.png)
+
+![image](https://github.com/nitin0557/dashboard-frontend/blob/main/assets/p2.png)
 
 
 # Getting Started with Create React App
