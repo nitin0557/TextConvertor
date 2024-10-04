@@ -1,6 +1,6 @@
-![image](https://github.com/nitin0557/text-utils/blob/main/assets/p1.jpg)
+![image](https://github.com/nitin0557/text-utils/blob/main/src/assets/p1.jpg)
 
-![image](https://github.com/nitin0557/text-utils/blob/main/assets/p2.jpg)
+![image](https://github.com/nitin0557/text-utils/blob/main/src/assets/p2.jpg)
 
 
 # Getting Started with Create React App
